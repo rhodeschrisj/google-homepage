@@ -1,4 +1,4 @@
-Goal: Recreate the Googleh homepage
+Goal: Recreate the Google homepage
 
 I hope to show my knowlegde of HTML, CSS.
 
